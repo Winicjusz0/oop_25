@@ -5,5 +5,6 @@ public class Main {
         p1.x = 5.0;
         p1.y = 4.0;
         System.out.println("P1: (" + p1.x + "," + p1.y + ")");
+        System.out.println(p1.toSvg());
     }
 }
