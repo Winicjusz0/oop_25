@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+        System.out.println("Hello and welcome!");
         Point p1 = new Point();
         p1.x = 5.0;
         p1.y = 4.0;
