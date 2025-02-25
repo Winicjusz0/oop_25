@@ -4,5 +4,6 @@ public class Point {
 
     public String toSvg(){
         return "<circle r=\"5\" cx=\""+x+"\" cy=\""+y+"\" fill=\"red\" />";
+
     }
 }
